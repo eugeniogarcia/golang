@@ -1,0 +1,3 @@
+- display. Demuestra como inspeccionar los campos y valores de un determinado objeto
+- methods. Inspecciona los métodos de un determinado objeto
+- params. Permite acceder a los tags de los campos - si los hubiera
